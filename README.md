@@ -12,7 +12,6 @@ Tenho como hobbies tocar violão, ouvir música, jogar e ver séries de sitcoms.
 ![image](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![image](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 ![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-![image]()
 
 Aprender é a palavra que está mais presente em meu dia a dia e os desafios que tenho todo dia me mantém disposto a aprender mais e mais.
 
