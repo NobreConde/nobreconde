@@ -1,4 +1,4 @@
-![capa git](https://github.com/NobreConde/nobreconde/blob/65699a1b8d7ddf04ac75d66e8f7c72308e358512/banner_matheus.png)
+![capa git](https://github.com/NobreConde/nobreconde/blob/54da869f679fbd8d185de959932b5ccb69252cc4/c%C3%B3digo.jpg)
 
 <!-- Aout me -->
 ### Salve salve terráqueo 🖖🏼👽
