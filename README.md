@@ -7,7 +7,7 @@
 
 Sou estudante de Desenvolvimento Web, graduado em Gestão da Tecnologia da Informação em 2018 e atualmente atuo como analista de integrações pleno. Entre o final de 2019 e inicio de 2020 iniciei minha trajetória de estudos de desenvolvimento web. Estudo atualmente HTML, CSS, JS, ReactJS e Python.
 
-Tenho como hobbies tocar violão, ouvir música, jogar e ver séries de sitcoms.
+Tenho como hobbies tocar violão, ouvir música, jogar e assistir séries de sitcoms.
 
 ![image](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![image](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
