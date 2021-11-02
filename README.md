@@ -42,7 +42,3 @@ Aprender é a palavra que está mais presente em meu dia a dia e os desafios que
 ✉️ Contato
 
 <a href="https://www.linkedin.com/in/matheus-conde-nobre/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
----
-
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
