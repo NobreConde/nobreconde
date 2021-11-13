@@ -5,7 +5,7 @@
 
 ---
 
-<h3>Sobre Mim</h3>
+<h1>Sobre Mim</h1>
 
 Sou estudante de Desenvolvimento Web, graduado em Gestão da Tecnologia da Informação em 2018 e atualmente trabalho como analista de integrações. Entre o final de 2019 e inicio de 2020 iniciei minha trajetória de estudos de desenvolvimento web.
 Tenho como hobbies tocar violão, ouvir música, jogar e assistir séries de sitcoms.
