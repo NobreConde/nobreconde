@@ -52,7 +52,7 @@ Aprender é a palavra que mais está presente em meu dia a dia, e os desafios qu
 <a href="https://www.instagram.com/nobreconde/?theme=dark" target="_blank">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://t.me/NobreConde" target="_blank">![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 </br>
-<h2>Desenvolvido e testado em:</h2>
+<h2>Desenvolvido e testado</h2>
 
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
