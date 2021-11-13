@@ -1,7 +1,7 @@
 ![capa git](https://github.com/NobreConde/nobreconde/blob/54da869f679fbd8d185de959932b5ccb69252cc4/c%C3%B3digo.jpg)
 
 <!-- About me -->
-### Salve salve terráqueo 🖖🏼👽
+### <p align=center>Salve salve terráqueo 🖖🏼👽</p>
 
 ---
 
