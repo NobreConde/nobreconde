@@ -24,7 +24,7 @@ Aprender é a palavra que mais está presente em meu dia a dia, e os desafios qu
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+</br>
 
 <h3>Tecnologias que quero me aprofundar</h3>
 
