@@ -48,6 +48,8 @@ Aprender é a palavra que mais está presente em meu dia a dia, e os desafios qu
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NobreConde&label=Profile%20views&color=0e75b6&style=flat" alt="NobreConde" /> </p>
 
+---
+
 <h3>Conecte-se comigo</h3>
 
 <a href="https://www.linkedin.com/in/matheus-conde-nobre/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
