@@ -7,8 +7,9 @@
 
 <h1><p align=center>Sobre Mim</p></h1>
 
-Sou estudante de Desenvolvimento Web, graduado em Gestão da Tecnologia da Informação em 2018 e atualmente trabalho como analista de integrações. Entre o final de 2019 e inicio de 2020 iniciei minha trajetória de estudos de desenvolvimento web.
-Tenho como hobbies tocar violão, ouvir música, jogar e assistir séries de sitcoms.
+Sou estudante de Desenvolvimento Web, graduado em Gestão da Tecnologia da Informação e, atualmente, trabalho como analista de integrações.
+Entre o final de 2019 e inicio de 2020 iniciei minha trajetória de estudos de desenvolvimento web.
+Tenho como hobbies tocar violão, ouvir música, jogar e assistir séries de sitcoms e animações.
 
 ![image](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![image](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
