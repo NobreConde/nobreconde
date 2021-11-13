@@ -13,7 +13,7 @@ Tenho como hobbies tocar violão, ouvir música, jogar e assistir séries de sit
 ![image](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![image](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 <a href="https://open.spotify.com/playlist/0agmLZW14CLlrd3TEvITka?si=2f13fb1668e641e4
-" target="_blank">![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)>/a>
+" target="_blank">![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
 
 Aprender é a palavra que mais está presente em meu dia a dia, e os desafios que tenho nele me mantém disposto a aprender cada vez mais.
 
