@@ -5,6 +5,8 @@
 
 ---
 
+<h3>Sobre Mim</h3>
+
 Sou estudante de Desenvolvimento Web, graduado em Gestão da Tecnologia da Informação em 2018 e atualmente trabalho como analista de integrações. Entre o final de 2019 e inicio de 2020 iniciei minha trajetória de estudos de desenvolvimento web. Estudo atualmente HTML, CSS e JS.
 
 Tenho como hobbies tocar violão, ouvir música, jogar e assistir séries de sitcoms.
@@ -17,7 +19,7 @@ Aprender é a palavra que mais está presente em meu dia a dia, e os desafios qu
 
 ---
 
-🖥️ Tecnologias
+<h3>Tecnologias</h3>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
