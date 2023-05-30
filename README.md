@@ -1,25 +1,23 @@
 ![capa git](https://github.com/NobreConde/nobreconde/blob/54da869f679fbd8d185de959932b5ccb69252cc4/c%C3%B3digo.jpg)
 
 <!-- About me -->
-### <p align=center>Salve salve terráqueo 🖖🏼👽</p>
+### <p align=center>Eaee, como cê tá??</p>
 
 ---
 
 <h1><p align=center>Sobre Mim</p></h1>
 
 <p>Sou estudante de Desenvolvimento Web, graduado em Gestão da Tecnologia da Informação e, atualmente, trabalho como analista de integrações.</p>
-Entre o final de 2019 e inicio de 2020 iniciei minha trajetória de estudos de desenvolvimento web.
-Tenho como hobbies tocar violão, ouvir música, jogar e assistir séries de sitcoms e animações.</p>
+No final de 2019 iniciei minha trajetória de estudos de desenvolvimento web.
+Tenho como hobbies fazer lives semanalmente, tocar violão, ouvir música, jogar, assistir séries e estudar.</p>
 
-![image](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
-![image](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 <a href="https://open.spotify.com/user/22b3k64vdxo2qozkb2qcw56gy" target="_blank">![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
 
 Aprender é a palavra que mais está presente em meu dia a dia, e os desafios que tenho nele me mantém disposto a aprender cada vez mais.
 
 ---
 
-<h3>Tecnologias que estou estudando</h3>
+<h3>Tecnologias que já estudei</h3>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,10 +27,10 @@ Aprender é a palavra que mais está presente em meu dia a dia, e os desafios qu
 
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
 
 <center>
   <table>
@@ -51,7 +49,10 @@ Aprender é a palavra que mais está presente em meu dia a dia, e os desafios qu
 
 <a href="https://www.linkedin.com/in/matheus-conde-nobre/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/nobreconde/?theme=dark" target="_blank">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://t.me/NobreConde" target="_blank">![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://www.twitch.tv/nobreconde" target="_blank">![image](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
+)</a>
+<a href="https://studio.youtube.com/@nobreconde" target="_blank">![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+)</a>
 </br>
 <h3>Desenvolvido e testado</h3>
 
